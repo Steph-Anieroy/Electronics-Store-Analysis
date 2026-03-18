@@ -86,7 +86,10 @@ This project focuses on analyzing sales performance by transforming raw sales da
 *	Quantity YOY
 
 ## Dashboard Preview
+<img width="1233" height="690" alt="Electronic Data flook" src="https://github.com/user-attachments/assets/f6a8b29d-1bb2-486e-bbc7-a83365d225f5" />
 
+
+<img width="1145" height="641" alt="Electronic store correct 2" src="https://github.com/user-attachments/assets/130e59b2-2749-4612-8439-5305241cb52d" />
 
 
 
